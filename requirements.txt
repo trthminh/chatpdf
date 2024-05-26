@@ -1,4 +1,5 @@
 langchain
+langchain_community
 beautifulsoup4
 black
 tiktoken
