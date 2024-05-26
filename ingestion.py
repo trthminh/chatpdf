@@ -11,7 +11,7 @@ from langchain.chains import RetrievalQA
 def ingest_pdf(pdf_path):
     loader = PyPDFLoader(file_path=pdf_path)
     documents = loader.load()
-    print(documents)
+    # print(documents)
     text_splitter = CharacterTextSplitter(chunk_size=2000, chunk_overlap=30, separator="\n")
     docs = text_splitter.split_documents(documents=documents)
 
