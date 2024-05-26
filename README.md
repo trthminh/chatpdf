@@ -11,4 +11,5 @@
 ```
 python -m streamlit run main.py
 ```
-## Troubleshooting 
+## Demo
+You can see my demo in https://github.com/trthminh/chatpdf/blob/main/demo.png
