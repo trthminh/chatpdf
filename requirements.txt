@@ -13,7 +13,5 @@ streamlit
 streamlit-chat
 tqdm
 langchain-pinecone
-streamlit
-streamlit-chat
 pypdf
 faiss-cpu
