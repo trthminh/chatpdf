@@ -9,6 +9,6 @@
 ## Run app
 - You can run this app by
 ```
-streamlit run main.py
+python -m streamlit run main.py
 ```
 ## Troubleshooting 
