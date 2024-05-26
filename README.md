@@ -1,1 +1,6 @@
-# chatpdf
+# Chatpdf
+## Installation
+
+## Run app
+
+## Troubleshooting 
