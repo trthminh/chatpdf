@@ -12,4 +12,4 @@
 python -m streamlit run main.py
 ```
 ## Demo
-You can see my demo in https://github.com/trthminh/chatpdf/blob/main/demo.png
+You can see my demo in https://www.youtube.com/watch?v=LZ6h4tvmYK0
